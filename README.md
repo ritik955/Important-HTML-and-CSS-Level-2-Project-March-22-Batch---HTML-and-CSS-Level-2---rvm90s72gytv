@@ -8,10 +8,15 @@ I started by reviewing the design specification. I then started markup knowing t
 Built with
 
 Semantic HTML5 markup
+
 Mobile-first workflow
+
 CSS custom properties
+
 CSS Grid
+
 Flexbox
+
 
 What I learned
 
